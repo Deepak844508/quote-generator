@@ -1,11 +1,14 @@
 body{
     background-attachment: fixed;
-    background-color: tomato;
+    background-color: rgb(255,255,255);
 }
-h1{
-    text-align:center ;
-    margin-top: 19%;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 200px;
-    font-weight: bold;
+
+#leadership-thought{
+    text-align: center;
+    margin-top: 18%;
+    display: block; 
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 800;
+  font-style: inherit;
+    
 }
